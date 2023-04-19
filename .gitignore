@@ -1,0 +1,5 @@
+helm_ffi/target
+helm_ffi/Cargo.lock
+helm_ffi/build/libhelm.a
+helmFFI/libhelm.a
+helmFFI/sample/
